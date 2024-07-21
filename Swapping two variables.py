@@ -1,5 +1,5 @@
 # Write a Python code to swap two variables
-# Swapping here mean initial value of a is stored in b and viceversa.
+# Swapping here mean initial value of a is stored in b and viceversa after performing swapping
 
 # swapping with using a third variable
 a = 2
