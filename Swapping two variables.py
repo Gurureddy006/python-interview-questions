@@ -31,7 +31,6 @@ print(c, d)
 
 # Way 3
 i,j = 123, 1355
-
 i = i^j  # xor operator
 j = i^j
 i = i^j
